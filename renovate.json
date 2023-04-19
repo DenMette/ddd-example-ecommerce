@@ -1,0 +1,13 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "local>ordina-jworks/.github",
+    "local>ordina-jworks/.github:frontend",
+    "local>ordina-jworks/.github:automerge",
+    ":label(Renovate)",
+    ":automergeDigest",
+    ":automergePatch"
+  ],
+  "stopUpdatingLabel": "On hold",
+  "platformAutomerge": true
+}
