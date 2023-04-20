@@ -1,5 +1,7 @@
 # DDD Example Project in Java: eCommerce
 
+Based on the [DDD Example Project in Java](https://github.com/ttulka/ddd-example-ecommerce/tree/main) by [Tomas Tulka](https://github.com/ttulka).
+
 The purpose of this project is to provide a sample implementation of an e-commerce product following **Domain-Driven Design (DDD)** and **Service-Oriented Architecture (SOA)** principles.
 
 Programming language is Java with heavy use of Spring framework.
