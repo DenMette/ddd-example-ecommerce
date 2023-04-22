@@ -78,10 +78,7 @@ Later, we can think about more supporting domains (not implemented in this proje
   
 The e-commerce system is a web application using a **Portal** component implementing the [Backends For Frontends (BFF)][bff] pattern.
 
-The idea of [Microfrontends][microf] is implemented in an [alternative branch](https://github.com/ttulka/ddd-example-ecommerce/tree/microfrontend).
-
 [bff]: https://samnewman.io/patterns/architectural/bff/
-[microf]: https://martinfowler.com/articles/micro-frontends.html
 
 ### Event Workflow
 
