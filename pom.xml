@@ -116,7 +116,7 @@
         <dependency>
             <groupId>io.rest-assured</groupId>
             <artifactId>rest-assured</artifactId>
-            <version>5.3.2</version><!-- should be fixed in spring boot 3.0.0 -->
+            <version>5.5.0</version><!-- should be fixed in spring boot 3.0.0 -->
             <exclusions>
                 <exclusion>
                     <groupId>org.codehaus.groovy</groupId>
